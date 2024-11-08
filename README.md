@@ -1,2 +1,13 @@
 # MathLadderAR
-A React Native AR application for solving math puzzles in a ladder format, inspired by mathematical problem-solving challenges  --  Matematiksel problem çözme zorluklarından esinlenerek, merdiven formatında matematik bulmacalarını çözmeye yönelik bir React Native AR uygulaması.
+
+MathLadderAR, kullanıcıların AR ortamında etkileşimli olarak matematiksel bir merdiven bulmacası çözebilecekleri bir React Native artırılmış gerçeklik uygulamasıdır.
+
+## Özellikler
+- Etkileşimli AR tabanlı matematik bulmacaları
+- Adım adım problem çözmeye yönelik merdiven formatı
+- Çocuklar için eğlenerek zaman geçirebilieceği öğretici bir matematik aktivitesidir
+
+## Teknolojiler
+- React Native
+- AR kütüphaneleri (iOS için ARKit veya Android için ARCore gibi)
+- Matematik mantığı ve animasyonlar
