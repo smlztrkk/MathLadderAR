@@ -6,8 +6,10 @@ MathLadderAR, kullanıcıların AR ortamında etkileşimli olarak matematiksel b
 - Etkileşimli AR tabanlı matematik bulmacaları
 - Adım adım problem çözmeye yönelik merdiven formatı
 - Çocuklar için eğlenerek zaman geçirebilieceği öğretici bir matematik aktivitesidir
-
+- Matematik mantığı ve animasyonlar
+- 
 ## Teknolojiler
 - React Native
 - AR kütüphaneleri (iOS için ARKit veya Android için ARCore gibi)
-- Matematik mantığı ve animasyonlar
+- Unity ve fuvoria
+
